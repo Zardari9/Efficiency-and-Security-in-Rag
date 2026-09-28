@@ -1,0 +1,11 @@
+torch
+sentence-transformers
+qdrant-client
+groq
+python-dotenv
+scikit-learn
+numpy
+matplotlib
+rouge-score
+nltk
+pytest
